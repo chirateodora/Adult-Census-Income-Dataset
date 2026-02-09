@@ -1,0 +1,9 @@
+Model,Scenario,Accuracy,Precision,Recall,F1,ROC-AUC,Best_Params
+DecisionTree,without_fe,0.8626,0.7702,0.5962,0.6721,0.9044,"{'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}"
+RandomForest,without_fe,0.8636,0.7747,0.5962,0.6738,0.915,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}"
+LogisticRegression,without_fe,0.8507,0.7284,0.5871,0.6502,0.9038,"{'C': 1.0, 'l1_ratio': 0.0, 'max_iter': 5000}"
+XGBoost,without_fe,0.8727,0.7769,0.6466,0.7058,0.9267,"{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'subsample': 0.8}"
+DecisionTree,with_fe,0.8608,0.7719,0.5832,0.6644,0.9018,"{'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}"
+RandomForest,with_fe,0.8623,0.7747,0.5881,0.6686,0.9158,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}"
+LogisticRegression,with_fe,0.8542,0.7367,0.5959,0.6589,0.9073,"{'C': 1.0, 'l1_ratio': 0.0, 'max_iter': 5000}"
+XGBoost,with_fe,0.8737,0.7774,0.6521,0.7093,0.928,"{'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'subsample': 1.0}"
