@@ -1,5 +1,0 @@
-Method,Group,Count,Age_Mean,Age_Std,Hours_Mean,Hours_Std,CapitalGain_Mean,CapitalGain_Std
-IsolationForest,Outliers,1169,51.0,16.39,45.06,24.26,27046.31,38303.87
-IsolationForest,Normal,10518,43.53,9.41,45.5,8.44,1485.5,3696.71
-LOF,Outliers,1169,45.63,14.1,47.14,12.21,6527.29,16086.4
-LOF,Normal,10518,44.12,10.08,45.27,10.94,3766.04,14576.21
