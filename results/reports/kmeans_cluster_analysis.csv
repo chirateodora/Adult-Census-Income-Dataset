@@ -1,0 +1,6 @@
+Cluster,Size,Age_Mean,Education_Num_Mean,Hours_Mean,Top1_Occupation,Top2_Occupation,Top3_Occupation
+0,2352,38.88818027210884,6.375,39.46386054421769,Other-service (18.4%),Craft-repair (16.4%),Machine-op-inspct (15.8%)
+1,12510,43.97234212629896,10.226858513189448,38.95475619504396,Prof-specialty (21.7%),Adm-clerical (21.5%),Exec-managerial (13.6%)
+2,13821,26.670356703567034,9.918891541856595,36.257434339049276,Prof-specialty (17.7%),Other-service (15.0%),Sales (14.1%)
+3,18755,43.949346840842445,10.478325779792055,44.604212210077314,Craft-repair (19.3%),Prof-specialty (17.2%),Exec-managerial (17.0%)
+4,1404,37.74216524216524,11.176638176638177,40.24287749287749,Prof-specialty (27.8%),Other-service (14.1%),Exec-managerial (12.4%)
